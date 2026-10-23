@@ -1,0 +1,7 @@
+,Brute_Force,HTTP_DDoS,ICMP_Flood,Normal,Port_Scan,Web_Crwling
+Brute_Force,12383,0,0,6,15,0
+HTTP_DDoS,0,79,0,3,6,0
+ICMP_Flood,0,1,5,2,0,1
+Normal,2,1,1,5232,4,2
+Port_Scan,10,1,0,3,644,0
+Web_Crwling,0,1,0,4,0,1

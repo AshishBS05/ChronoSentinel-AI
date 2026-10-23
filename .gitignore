@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.pcap
+*.pcapng
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.bak.*
+*.backup*
+*.before_*
+backups/
+
+# Generated logs and local test outputs
+logs/
+data/flows/live_test.csv
+local_waf_test_results.csv
+reports/*predictions.csv
+data/datasets/*:Zone.Identifier
